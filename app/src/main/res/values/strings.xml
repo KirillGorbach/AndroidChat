@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChatProg</string>
+    <string name="sendName">SEND</string>
+    <string name="etHint">Введите сообщение...</string>
+</resources>
