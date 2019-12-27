@@ -12,3 +12,6 @@ adapter = new FirebaseListAdapter<Message>(this, Message.class, R.layout.list_it
                         .build();
 И заголовок выглядит так:
 adapter = new FirebaseListAdapter<Message>(options)
+  
+Существует проблема: на новом устройстве Xiaomi Redmi Note 8 Pro программа вылетает при запуске. На более старой модели
+Note 5 программа работает стабильно.
